@@ -1,0 +1,7 @@
+D:\.NET Task\Student Data\bin\Debug\Student Data.exe.config
+D:\.NET Task\Student Data\bin\Debug\Student Data.exe
+D:\.NET Task\Student Data\bin\Debug\Student Data.pdb
+D:\.NET Task\Student Data\obj\Debug\Student Data.csproj.AssemblyReference.cache
+D:\.NET Task\Student Data\obj\Debug\Student Data.csproj.CoreCompileInputs.cache
+D:\.NET Task\Student Data\obj\Debug\Student Data.exe
+D:\.NET Task\Student Data\obj\Debug\Student Data.pdb
